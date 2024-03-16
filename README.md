@@ -26,7 +26,7 @@ Este é um projeto de API desenvolvido em Python utilizando o framework FastAPI,
 
 - `GET /`: Retorna uma mensagem de boas-vindas e uma visão geral do propósito da API.
 
-- `POST /informacoes`: Permite aos usuários enviar consultas ou prompts para obter informações sobre a votação em Portugal em 2024.
+- `POST /prompt`: Permite aos usuários enviar consultas ou prompts para obter informações sobre a votação em Portugal em 2024.
 
 ## Contribuição
 
