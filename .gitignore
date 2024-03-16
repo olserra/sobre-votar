@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# FastAPI specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables
+.env
