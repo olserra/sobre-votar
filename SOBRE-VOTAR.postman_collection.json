@@ -33,12 +33,13 @@
 					]
 				},
 				"url": {
-					"raw": "http://localhost:8000/prompt",
-					"protocol": "http",
+					"raw": "https://sobre-votar.onrender.com/prompt",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"sobre-votar",
+						"onrender",
+						"com"
 					],
-					"port": "8000",
 					"path": [
 						"prompt"
 					]
