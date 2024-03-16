@@ -1,6 +1,6 @@
 # Sobre Votar
 
-Este é um projeto de API desenvolvido em Python utilizando o framework FastAPI, voltado para fornecer informações sobre a votação em Portugal em 2024.
+Este é uma API desenvolvida em Python utilizando o framework FastAPI e Langchain, voltado para fornecer informações sobre a votação em Portugal em 2024, utilizando um CSV com dados públicos.
 
 ## Utilização
 
