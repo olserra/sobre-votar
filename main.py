@@ -37,4 +37,5 @@ async def process_prompt(prompt: str = Form(...)):
     return {"response": response}
 
 if __name__ == "__main__":
-    uvicorn.invoke(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="sobre-votar.onrender.com", port=8000)
+
